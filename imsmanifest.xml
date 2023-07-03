@@ -1,0 +1,156 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest identifier="LHaKRe-49TEEnBc4Z8IAb_3WlXzclimuORLLR7ar" version="1.3"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+  xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                      http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                      http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="B0">
+    <organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
+      <title>Mental Health Awareness 2: Supporting Persons with Mental Health Issues</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Mental Health Awareness 2: Supporting Persons with Mental Health Issues</title>
+        <adlcp:dataFromLMS>eyJjcHYiOiJPUkxMUjdhciIsInJsZCI6ZmFsc2V9</adlcp:dataFromLMS>
+        <imsss:sequencing>
+          <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true"/>
+        </imsss:sequencing>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true"/>
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormType="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/main.bundle.css" />
+<file href="scormcontent/lib/main.bundle.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/tzew0RbWMLBOrj4w-CenturyGothic-Italic.woff" />
+<file href="scormcontent/lib/fonts/LdbreqkrvaDWExnK-CenturyGothic-Bold.woff" />
+<file href="scormcontent/lib/fonts/8t3YyGrBSWO7pgJW-CenturyGothic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/B8r8SolXV0VBtbwD_small.png" />
+<file href="scormcontent/assets/InnK2gN6njW_MOuc_fDXDttUsCYsXicyn.jpg" />
+<file href="scormcontent/assets/4ug7rGanY1kYviPz_transcoded-5xapLWxv493QQryX-IMH-Schizophrenia-00001.png" />
+<file href="scormcontent/assets/fBEQOzu1hLG_wFHY_transcoded-5xapLWxv493QQryX-IMH-Schizophrenia.mp4" />
+<file href="scormcontent/assets/5sCVx0FlI0InZrvI_SSb7RNXBjNdqEXA4.png" />
+<file href="scormcontent/assets/KsErznbxlyqJXpJl__cq4z9G2tpQerGcb.png" />
+<file href="scormcontent/assets/lRJPqU0DuAR5quHQ_-T7qQO1ZTODGRD3x.png" />
+<file href="scormcontent/assets/n2z-zP0zzRynWeVo_rqHQ8GB3QHBLvb7L.png" />
+<file href="scormcontent/assets/Ei6qGN3eSL9qRc-I_Oqlp8X1jktZSgDb8.png" />
+<file href="scormcontent/assets/OaPMX5wj01kBr149_mountains.jpg" />
+<file href="scormcontent/assets/72tsapC-73TSDCKB_28mZKc7JXVPCkdqJ.png" />
+<file href="scormcontent/assets/VM5_ebNHoDgaUqf3_bBVilgahd94TWrBT.png" />
+<file href="scormcontent/assets/VTQhrX8xIwQKhRzk_JI3uLXpGwD90zvY8.png" />
+<file href="scormcontent/assets/YYArji7dGroKX4th_transcoded-bYL8xvi35gHmgXKA-AIC_MHA%202_Agitated%20Persons%20Animation%201_03092023_Jimmy-00001.png" />
+<file href="scormcontent/assets/LVq6bHTqOF_ru1Vy_transcoded-bYL8xvi35gHmgXKA-AIC_MHA%202_Agitated%20Persons%20Animation%201_03092023_Jimmy.mp4" />
+<file href="scormcontent/assets/PNEPFIUl4xbCtB1B_BYNAxaab_X1VU1wt.png" />
+<file href="scormcontent/assets/DsI3pigoNkqDl55E_eGv30a-AP8C7EQHz.png" />
+<file href="scormcontent/assets/XZp8NXI6Nt2Jp4_Y_SdQwFWACYgunnFFw-General%20Public%20-%20Persons%20Experiencing%20Agitation.pdf" />
+<file href="scormcontent/assets/WXIpcnHjq6WPKXxi_transcoded-JDcqCBZ668dr4rET-AIC_MHA%202_Suicidal%20Persons%20Animation%201_03092023_Jimmy-00001.png" />
+<file href="scormcontent/assets/XrxfXJCQ84Byb0BD_transcoded-JDcqCBZ668dr4rET-AIC_MHA%202_Suicidal%20Persons%20Animation%201_03092023_Jimmy.mp4" />
+<file href="scormcontent/assets/ztkKkP2ykinpCXQ6_aF4unmKEUwLZ94ed.png" />
+<file href="scormcontent/assets/NV2LKWmI-f4ljmBe_UfF1EJZSkxLQA4ed.png" />
+<file href="scormcontent/assets/0D3YWNTfPdOpUwVG_ISFBs825WPaZnc9e-General%20Public%20-%20Persons%20Experiencing%20Suicidal%20Thoughts.pdf" />
+<file href="scormcontent/assets/KI4Xu2NTBV-EP103_transcoded--rSIo4nsxAOXsnm_-AIC_MHA%202_Depressed%20Persons%20Animation%201_03102023_Kat-00001.png" />
+<file href="scormcontent/assets/fonQoWIQkCM0-sBk_transcoded--rSIo4nsxAOXsnm_-AIC_MHA%202_Depressed%20Persons%20Animation%201_03102023_Kat.mp4" />
+<file href="scormcontent/assets/a91uCHWx4c7odQoz_o5uuoZhPU0uS2K8D.png" />
+<file href="scormcontent/assets/SFTFN2aw5cs6I7cW_OV3_NNKEdBk-aeD2.png" />
+<file href="scormcontent/assets/l9hrai5DEa5xjEf6_gHLJ_H-VzuUdgwdQ-General%20Public%20-%20Persons%20Experiencing%20Depression.pdf" />
+<file href="scormcontent/assets/LfSPVQijKctpMT0G_transcoded-DAaRaDxIP5fG_CJ8-AIC_MHA%202_Anxious%20Persons_Animation%201_03102023_Kat-00001.png" />
+<file href="scormcontent/assets/Zi3pUhhqLp12DKEJ_transcoded-DAaRaDxIP5fG_CJ8-AIC_MHA%202_Anxious%20Persons_Animation%201_03102023_Kat.mp4" />
+<file href="scormcontent/assets/t3259J2fFlc5_Pza_LLa7nhDPm9jA5cKs.png" />
+<file href="scormcontent/assets/ezLeeNv6fKaCl8ek_0ZKE9kqKLhtFrt3k-General%20Public%20-%20Persons%20Experiencing%20Anxiety.pdf" />
+<file href="scormcontent/assets/BS8IIcEMnV3xUMks_transcoded-jjILgjAHpC82MMXv-AIC_MHA%202_Agitated%20Persons%20Animation%202_03092023_Jimmy-00001.png" />
+<file href="scormcontent/assets/4k47byC8MDm5FHWV_transcoded-jjILgjAHpC82MMXv-AIC_MHA%202_Agitated%20Persons%20Animation%202_03092023_Jimmy.mp4" />
+<file href="scormcontent/assets/vg5VFxzyKKE6t8c8_YSTD84OSYkZoObx8.png" />
+<file href="scormcontent/assets/vXk3tKVPsUNqP37I_5xKAT-_-5Xp6Xj3w.png" />
+<file href="scormcontent/assets/iLiEjXVi5hAcZlPQ_KqFdt735D46RpR6P-Volunteers%20or%20Frontline%20Officers%20-%20Persons%20Experiencing%20Agitation.pdf" />
+<file href="scormcontent/assets/YdvaEYedwtW7sXSU_transcoded-CY52UZiItkB5WDZN-AIC_MHA%202_Suicidal%20Persons%20Animation%202_03102023_Jimmy-00001.png" />
+<file href="scormcontent/assets/kmLSBLXA0ki2P_0e_transcoded-CY52UZiItkB5WDZN-AIC_MHA%202_Suicidal%20Persons%20Animation%202_03102023_Jimmy.mp4" />
+<file href="scormcontent/assets/ltLb-IoP1ozhb3VU_1mkwPkL67zjXLdGP.png" />
+<file href="scormcontent/assets/s8yjmvdrxHpigI4L_v1wCT6DrSZVz-DZU.png" />
+<file href="scormcontent/assets/M07jbyazepTK8BoF_jCIOiL-l80n1Fqm7-Volunteers%20or%20Frontline%20Officers%20-%20Persons%20Experiencing%20Suicidal%20Thoughts.pdf" />
+<file href="scormcontent/assets/AAhA0Glwy0DRiV5T_transcoded-4p7lWmOT4_J35Q68-AIC_MHA%202_Depressed%20Persons%20Animation%202_03102023_Kat-00001.png" />
+<file href="scormcontent/assets/t-ANbb_B1lOUnx-w_transcoded-4p7lWmOT4_J35Q68-AIC_MHA%202_Depressed%20Persons%20Animation%202_03102023_Kat.mp4" />
+<file href="scormcontent/assets/WyTZVoBde6PDTkd5_N25vOb4Fm2A9jv5K.jpg" />
+<file href="scormcontent/assets/Fm0AtfIs0F2EvGK__mWeMiDY7dwAHoO2K.png" />
+<file href="scormcontent/assets/Olkaz9AVQjDDmRCT_TvjiMo67NYzVIbFD.png" />
+<file href="scormcontent/assets/57qQ849z4sOZDeUq_8ehrMhnQK-bYjhI2-Volunteers%20or%20Frontline%20Officers%20-%20Persons%20Experiencing%20Depression.pdf" />
+<file href="scormcontent/assets/P5m85YtCpzOdQ7IP_transcoded-LTYI85BRaGGIHys2-AIC_MHA%202_Anxious%20Persons_Animation%202_03102023_Kat-00001.png" />
+<file href="scormcontent/assets/0qAautfKZBf57vMy_transcoded-LTYI85BRaGGIHys2-AIC_MHA%202_Anxious%20Persons_Animation%202_03102023_Kat.mp4" />
+<file href="scormcontent/assets/kPk_UMv16igz-vc7_ypi0y8ZXM72LLN_u.png" />
+<file href="scormcontent/assets/52HsgT7zF0B6K4w-_KIr5bs_hvmmVrA_W-Volunteers%20or%20Frontline%20Officers%20-%20Persons%20Experiencing%20Anxiety.pdf" />
+<file href="scormcontent/assets/ZXoqLdkH1kvgTi3z_y8qKkwRAHlqXqsoJ.jpg" />
+<file href="scormcontent/assets/PqgRj4kFt9IX11s1_zWxLWoC6bGwAFn-K-Supporting%20Caregivers%20and%20Persons%20With%20Mental%20Health%20Issues.pdf" />
+<file href="scormcontent/assets/665DRhoM4miuyZfm_Def1iffPTH4DFmxf.png" />
+<file href="scormcontent/assets/Y2V1mZo2BHn-IK5A_7ljgYLxXhYNeRK3g.png" />
+<file href="scormcontent/assets/cD1EIBBHS_1DzIXH_3-WbrSwR4FRA2Eop.png" />
+<file href="scormcontent/assets/XiWEyviYsbV6SMCh_JSOwFw4eXIMnwVjU.png" />
+<file href="scormcontent/assets/7bqRD9to5v8Rpbjh_PdxXRI9mPsrVmQ3R.png" />
+<file href="scormcontent/assets/JeZMY2yJBpycNPRF_CU4p_ytl6WI6TVLk.png" />
+<file href="scormcontent/assets/L1qIB2NeHJo9Mu5M__63Pi9co3CzpzHo-.png" />
+<file href="scormcontent/assets/8zkrTQ2WAlEhW2A__coz6x_LiyKTjMx8d.png" />
+<file href="scormcontent/assets/LH3KiuuuUA5TPf0U_WG3CFu_njpBSTDHb.png" />
+<file href="scormcontent/assets/yItDU1ghrKMGMnTH_MYciFwWd-ODWLxP1.png" />
+<file href="scormcontent/assets/1HDONKtIrZx0hXnX_MgOP9GnbeXlz-P7Z.png" />
+<file href="scormcontent/assets/SVqQs-R6CzFCNRPC_qC_AVOUeC6GI2u48.jpg" />
+<file href="scormcontent/assets/5ZXzngo67ssC4UIj_uano8nTOD5DIPFax.png" />
+<file href="scormcontent/assets/0QnALDXBzqGpGrVe_9f0Go-ywJ5SypdGB.png" />
+<file href="scormcontent/assets/yXGfriO6ssddJj08_transcoded-ihZ9tLaROEMQAksY-IMH-Depression-00001.png" />
+<file href="scormcontent/assets/C88BhloEqsUsCf-Q_transcoded-ihZ9tLaROEMQAksY-IMH-Depression.mp4" />
+<file href="scormcontent/assets/3ZuOmLihatsck8lQ_HrZXxIfkeE3XCMhx.png" />
+<file href="scormcontent/assets/gYORnpGHVy4aadoJ_baMV-omEFoGoHxLK.png" />
+<file href="scormcontent/assets/gh73EI6fFP9xDMeH_PUJsBAc9d-i6-NH-.png" />
+<file href="scormcontent/assets/s-aiLQBe9FeLedNv_n7Bkag-kzxCISooT.png" />
+<file href="scormcontent/assets/OHFw-zB1g6eCb-IQ_BFwm3RWj9ZeTF9JD.jpg" />
+<file href="scormcontent/assets/jpYjyjy-2dsY7WND_6_insurance.jpg" />
+<file href="scormcontent/assets/lqavuiDZCp8-ITLG_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
